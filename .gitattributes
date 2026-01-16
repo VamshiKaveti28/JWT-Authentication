@@ -1,2 +1,5 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+# Ignore application properties file with specific path
+src/main/resources/application.properties
+
